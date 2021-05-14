@@ -1,4 +1,4 @@
 ## Welcome to thenice.cloud
 
 ```markdown
-NextGen solutions for your Enterprise
+Cloud Solutions for the modern Enterprise
