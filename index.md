@@ -1,4 +1,4 @@
 ## Welcome to thenice.cloud
-
-```markdown
-Cloud Solutions for the modern Enterprise
+```
+Custom Cloud Solutions for the Modern Enterprise
+```
